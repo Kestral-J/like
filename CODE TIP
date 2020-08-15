@@ -1,0 +1,3 @@
+document.body.contentEditable='true'
+
+then you can Edit html
